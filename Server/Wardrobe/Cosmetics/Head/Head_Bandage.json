@@ -10,5 +10,18 @@
     "TextureConfig": {
       "Texture": "Characters/Wardrobe/Cosmetics/Head/Head_Bandage_Textures/Head_Bandage_White.png"
     }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Head_Bandage.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -1
+    ]
   }
 }

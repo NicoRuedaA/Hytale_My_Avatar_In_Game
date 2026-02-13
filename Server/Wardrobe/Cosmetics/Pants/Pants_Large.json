@@ -10,5 +10,18 @@
     "TextureConfig": {
       "Texture": "Characters/Wardrobe/Cosmetics/Pants/Pants_Large_Textures/Apprentice_Brown.png"
     }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Pants_Large.png",
+  "IconProperties": {
+    "Scale": 0.5,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -38
+    ]
   }
 }

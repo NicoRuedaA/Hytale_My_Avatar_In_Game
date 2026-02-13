@@ -10,5 +10,18 @@
     "TextureConfig": {
       "Texture": "Characters/Wardrobe/Cosmetics/Pants/Dress_Textures/Black.png"
     }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Dress.png",
+  "IconProperties": {
+    "Scale": 0.5,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -30
+    ]
   }
 }

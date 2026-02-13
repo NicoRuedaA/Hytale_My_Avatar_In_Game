@@ -10,5 +10,18 @@
     "TextureConfig": {
       "Texture": "Characters/Wardrobe/Characters/Body_Attachments/Faces/Faces_Detached_Textures/Older_Face.png"
     }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Face.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -6,
+      -64
+    ]
   }
 }

@@ -10,5 +10,18 @@
     "TextureConfig": {
       "Texture": "Characters/Wardrobe/Cosmetics/Underwears/Underwear_Textures/Underwear_Bandeau_Texture.png"
     }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Underwear.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -52
+    ]
   }
 }

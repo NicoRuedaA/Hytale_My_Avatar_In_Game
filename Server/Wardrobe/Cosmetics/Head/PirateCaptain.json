@@ -10,5 +10,18 @@
     "TextureConfig": {
       "Texture": "Characters/Wardrobe/Cosmetics/Head/PirateCaptain_Textures/PirateCaptain_Greyscale_Texture.png"
     }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/PirateCaptain.png",
+  "IconProperties": {
+    "Scale": 0.5,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      2,
+      -110
+    ]
   }
 }

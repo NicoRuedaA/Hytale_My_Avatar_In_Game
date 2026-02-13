@@ -10,5 +10,18 @@
     "TextureConfig": {
       "Texture": "Characters/Wardrobe/Cosmetics/Head/Bandana_Textures/Bandana_Skulls_Greyscale_Texture.png"
     }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Bandana.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      2,
+      -106
+    ]
   }
 }

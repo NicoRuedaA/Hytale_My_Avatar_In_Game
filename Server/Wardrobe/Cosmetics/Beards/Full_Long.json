@@ -8,7 +8,20 @@
   "Appearance": {
     "Model": "Characters/Wardrobe/Characters/Body_Attachments/Beards/Full_Long.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Characters/Body_Attachments/Beards/Full_Long_Greyscale.png"
+      "Texture": "Characters/Wardrobe/Characters/Body_Attachments/Beards/DoubleBraid_Greyscale.png"
     }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Full_Long.png",
+  "IconProperties": {
+    "Scale": 0.4,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -71
+    ]
   }
 }

@@ -10,5 +10,18 @@
     "TextureConfig": {
       "Texture": "Characters/Wardrobe/Cosmetics/Overtops/SleevedDress_Textures/Sleeved_Dress_Greyscale.png"
     }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/SleevedDress.png",
+  "IconProperties": {
+    "Scale": 0.5,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -58
+    ]
   }
 }

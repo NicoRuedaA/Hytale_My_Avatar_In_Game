@@ -10,5 +10,18 @@
     "TextureConfig": {
       "Texture": "Characters/Wardrobe/Cosmetics/Head/WorkoutCap_Textures/WorkoutCap_Greyscale_Texture.png"
     }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/WorkoutCap.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      2
+    ]
   }
 }

@@ -10,5 +10,18 @@
     "TextureConfig": {
       "Texture": "Characters/Wardrobe/Characters/Haircuts/Pigtails_Greyscale.png"
     }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Pigtails.png",
+  "IconProperties": {
+    "Scale": 0.4,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -98
+    ]
   }
 }

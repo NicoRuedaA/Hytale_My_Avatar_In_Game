@@ -10,5 +10,18 @@
     "TextureConfig": {
       "Texture": "Characters/Wardrobe/Cosmetics/Overtops/Scarf_Textures/Colorful.png"
     }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Scarf.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -2
+    ]
   }
 }

@@ -8,7 +8,7 @@
   "Appearance": {
     "Model": "Characters/Wardrobe/Cosmetics/Haircut/Short.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Haircut/Short_Textures/BuzzCut_Texture.png"
+      "Texture": "Characters/Wardrobe/Characters/Haircuts/GenericShort_Greyscale.png"
     }
   }
 }

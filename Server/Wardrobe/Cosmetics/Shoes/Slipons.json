@@ -8,7 +8,20 @@
   "Appearance": {
     "Model": "Characters/Wardrobe/Cosmetics/Shoes/Slipons.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Shoes/Slipons_Textures/SlipOns_CheckerPattern.png"
+      "Texture": "Characters/Wardrobe/Cosmetics/Shoes/SlipOns_Textures/SlipOns_Greyscale.png"
     }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Slipons.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -7
+    ]
   }
 }

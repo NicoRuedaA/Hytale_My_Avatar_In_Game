@@ -10,5 +10,18 @@
     "TextureConfig": {
       "Texture": "Characters/Wardrobe/Cosmetics/Pants/LongDungarees_Textures/Long_Dungarees_Greyscale.png"
     }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/LongDungarees.png",
+  "IconProperties": {
+    "Scale": 0.3,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -44
+    ]
   }
 }

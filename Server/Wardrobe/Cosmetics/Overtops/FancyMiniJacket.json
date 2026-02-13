@@ -10,5 +10,18 @@
     "TextureConfig": {
       "Texture": "Characters/Wardrobe/Cosmetics/Overtops/FancyMiniJacket_Textures/PopstarJacket_Textures.png"
     }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/FancyMiniJacket.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -71
+    ]
   }
 }

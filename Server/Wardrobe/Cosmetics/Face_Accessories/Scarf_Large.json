@@ -10,5 +10,18 @@
     "TextureConfig": {
       "Texture": "Characters/Wardrobe/Cosmetics/Face_Accessories/Scarf_Large_Textures/Black.png"
     }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Scarf_Large.png",
+  "IconProperties": {
+    "Scale": 0.6,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -67
+    ]
   }
 }

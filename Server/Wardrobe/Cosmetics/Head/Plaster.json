@@ -10,5 +10,18 @@
     "TextureConfig": {
       "Texture": "Characters/Wardrobe/Cosmetics/Head/Plaster_Textures/Yellow.png"
     }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Plaster.png",
+  "IconProperties": {
+    "Scale": 0.58823,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -16,
+      -88
+    ]
   }
 }

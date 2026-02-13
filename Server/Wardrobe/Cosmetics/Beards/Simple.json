@@ -8,7 +8,20 @@
   "Appearance": {
     "Model": "Characters/Wardrobe/Characters/Body_Attachments/Beards/Simple.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Characters/Body_Attachments/Beards/Simple_Greyscale.png"
+      "Texture": "Characters/Wardrobe/Characters/Body_Attachments/Beards/ShortTrimmed_Greyscale.png"
     }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Simple.png",
+  "IconProperties": {
+    "Scale": 0.4,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      -9,
+      -73
+    ]
   }
 }

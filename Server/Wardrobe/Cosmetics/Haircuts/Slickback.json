@@ -6,9 +6,22 @@
   },
   "CosmeticSlot": "Haircut",
   "Appearance": {
-    "Model": "Characters/Wardrobe/Cosmetics/Haircut/Slickback.blockymodel",
+    "Model": "Characters/Wardrobe/Characters/Haircuts/Slickback.blockymodel",
     "TextureConfig": {
-      "Texture": "Characters/Wardrobe/Cosmetics/Haircut/Slickback_Textures/Slickback_Cowlick_Greyscale.png"
+      "Texture": "Characters/Wardrobe/Characters/Haircuts/SuperSlickback_Greyscale.png"
     }
+  },
+  "Icon": "Icons/Wardrobe/CosmeticsGenerated/Slickback.png",
+  "IconProperties": {
+    "Scale": 0.4,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -90
+    ]
   }
 }
